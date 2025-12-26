@@ -1,4 +1,3 @@
-/* Reset */
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +5,6 @@
   font-family: Arial, sans-serif;
 }
 
-/* Page center */
 body {
   height: 100vh;
   display: flex;
@@ -15,7 +13,6 @@ body {
   background: linear-gradient(135deg, #667eea, #764ba2);
 }
 
-/* Login box */
 .login-container {
   background: #fff;
   padding: 30px;
@@ -25,7 +22,6 @@ body {
   box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
 
-/* Heading */
 .login-container h2 {
   margin-bottom: 20px;
 }
@@ -55,7 +51,6 @@ body {
   background: #5a67d8;
 }
 
-/* Text */
 .login-container p {
   margin-top: 15px;
   font-size: 14px;
